@@ -1,2 +1,2 @@
 # TyporaCode
-图片记录
+for PicGo
