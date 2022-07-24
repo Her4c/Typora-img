@@ -1,2 +1,2 @@
-# TyporaCode
+# Typora-img
 for PicGo
